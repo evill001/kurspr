@@ -238,6 +238,10 @@ footer .container__footer .telephone ul li {
   width: 170px;
 }
 
+script .maps {
+  margin-left: 500px;
+}
+
 .container__souvenirs .souvenir p {
   font-weight: 600;
 }
